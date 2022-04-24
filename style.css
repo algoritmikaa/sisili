@@ -1,0 +1,72 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header a{
+   border:1px solid rgb(120, 253, 120);
+   background-color: rgb(120, 253, 120);
+   border-radius:12px  ; 
+   padding:3px;
+   text-decoration: none;
+   color:white;
+
+}
+
+header{
+    border:3px solid rgb(120, 253, 120);
+    border-radius:12px ;
+    padding:15px;
+}
+
+nav a{
+    border:3px solid rgb(120, 253, 120);
+    border-radius:12px ;
+    background-color: brown; 
+}
+h1 i{
+    color:green;
+    text-align:center ;
+}
+
+footer{
+    border:3px solid rgb(120, 253, 120);
+    border-radius:12px ;
+    padding:15px;
+    background-color: lightgreen;
+
+}
+
+footer p{
+    background-color: white;
+}
+
+.botic{
+    background-color: white;
+}
+
+.halid-botic{
+    border:3px solid rgb(120, 253, 120);
+    border-radius:12px ;
+    padding:15px;
+}
+
+.goblin{
+     border:3px solid rgb(120, 253, 120);
+    border-radius:12px ;
+    padding:1px;
+}
+
+.luca{
+     border:3px solid rgb(120, 253, 120);
+    border-radius:12px ;
+    padding:1px;
+     text-decoration: none;
+}
+
+.cucu{
+      border:3px solid rgb(120, 253, 120);
+    border-radius:12px ;
+    padding:1px;
+     text-decoration: none;
+}
